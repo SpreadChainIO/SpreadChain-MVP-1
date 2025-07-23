@@ -1,5 +1,14 @@
 # 🧬 SpreadChain Marketplace (MVP)
 
+
+
+<p align="center">
+  <img src="public/favicon.ico" alt="SpreadChain Logo" width="48" style="vertical-align: middle; margin-right: 8px;">
+  <span style="font-size: 1.8em; font-weight: bold; vertical-align: middle;">SpreadChain Marketplace (MVP)</span>
+</p>
+
+
+
 SpreadChain is a decentralized Web3 NFT marketplace built to empower creators, collectors, and gamers to seamlessly buy, sell, trade, and manage NFTs and game tokens across multiple blockchain networks.
 
 ![SpreadChain Screenshot](public/dashboard-1.png)
