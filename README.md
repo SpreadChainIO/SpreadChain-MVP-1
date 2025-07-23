@@ -61,7 +61,7 @@ npm install
 npm start
 ```
 
-Visit: http://localhost:8081
+Visit: `http://localhost:8081`
 
 ### Development Notes
 
