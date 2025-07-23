@@ -1,7 +1,3 @@
-# 🧬 SpreadChain Marketplace (MVP)
-
-
-
 <p align="center">
   <img src="public/favicon.ico" alt="SpreadChain Logo" width="48" style="vertical-align: middle; margin-right: 8px;">
   <span style="font-size: 1.8em; font-weight: bold; vertical-align: middle;">SpreadChain Marketplace (MVP)</span>
