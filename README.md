@@ -1,26 +1,67 @@
-# SpreadChain Marketplace
+# 🧬 SpreadChain Marketplace (MVP)
 
-SpreadChain is a cutting-edge marketplace designed to revolutionize the way users buy, sell, and trade digital assets. 
+SpreadChain is a decentralized Web3 NFT marketplace built to empower creators, collectors, and gamers to seamlessly buy, sell, trade, and manage NFTs and game tokens across multiple blockchain networks.
 
-![alt text](public/Screenshot_35.png)
+![SpreadChain Screenshot](public/dashboard-1.png)
+![SpreadChain Screenshot](public/dashboard-2.png)
+![SpreadChain Screenshot](public/dashboard-3.png)
+![SpreadChain Screenshot](public/dashboard-4.png)
 
+---
 
-Built on advanced blockchain technology, it offers a secure and user-friendly environment for transactions involving NFTs and cryptocurrencies.
+##  Project Overview
 
-![alt text](public/Screenshot_36.png)
+SpreadChain is designed to deliver a secure, scalable, and intuitive experience in the rapidly growing NFT and Web3 ecosystem. Built with modern blockchain and web technologies, our MVP version demonstrates the platform’s core capabilities and vision.
 
-With a focus on innovative features and seamless user experience, SpreadChain aims to empower creators and collectors alike in the digital.
+###  Core Features (MVP)
 
-![alt text](public/Screenshot_37.png)
+-  Mint, list, buy, and sell NFTs
+-  Wallet integration (MetaMask & WalletConnect)
+-  On-chain metadata display
+-  Smart contract interaction via Web3.js / Ethers.js
+-  Support for game tokens and assets
+-  Secure and gas-efficient smart contracts
 
-### Install dependencies
+---
 
+##  Tech Stack
+
+| Layer        | Stack                                  |
+|--------------|----------------------------------------|
+| **Frontend** | React.js, TypeScript, Tailwind CSS     |
+| **Backend**  | Node.js, Express.js, REST APIs         |
+| **Blockchain** | Ethereum (Solidity), Ethers.js/Web3.js |
+| **Storage**  | IPFS, NFT metadata                     |
+| **Design**   | Figma (UI/UX finalized)                |
+
+---
+
+##  Getting Started
+
+### Prerequisites
+
+- Node.js >= 16.x
+- NPM >= 8.x
+- MetaMask browser extension
+
+### Install Dependencies
+
+```bash
+npm install
 ```
-   npm install
+
+### Run Locally
+
+```bash
+npm start
 ```
 
-### Run on localhost
+Visit: http://localhost:8081
 
-```
-   npm start
-```
+### Development Notes
+
+
+- Smart contracts are deployed on Polygon Mumbai Testnet (note: deprecated as of April 2024 — migration in progress).
+- Integration with updated networks is planned for the next release.
+- Backend endpoints provide NFT metadata and user account history.
+
