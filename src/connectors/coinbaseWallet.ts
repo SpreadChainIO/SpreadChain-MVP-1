@@ -8,7 +8,7 @@ export const [coinbaseWallet, hooks] = initializeConnector<CoinbaseWallet>(
     new CoinbaseWallet({
       actions,
       options: {
-        appName: "Lumangi",
+        appName: "SpreadChain",
         url: URLS[1][0],
       },
     })
